@@ -3,3 +3,5 @@ Scripts to reproduce the results in the manuscript:
 N.T. Underhill, J. Stiens, S.L. Kendall, I. Nobeli
 
 All code in this repository was written by Dr Nick Underhill.
+
+DOI: https://doi.org/10.5281/zenodo.21788323
